@@ -29,6 +29,7 @@ h2 {
     margin: 0 0 0 70%;
     padding: 2px;
     width: 30%;
+    overflow: auto;
 }
 #menu1 #Chicken {
 
